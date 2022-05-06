@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## &#x1f4c8; GitHub Stats
-![Glenelg96's GitHub stats](https://github-readme-stats.vercel.app/api?username=glenelg96&show_icons=true&theme=radical)
+![Glenelg96's GitHub stats](https://github-readme-stats.vercel.app/api?username=glenelg96&show_icons=true&count_private=true&theme=radical)
